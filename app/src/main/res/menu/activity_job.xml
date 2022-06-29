@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list_subject"
+        android:title="@string/list_subjects" />
+    <item
+        android:id="@+id/menu_list_jobs_all"
+        android:title="@string/list_jobs_all" />
+    <item
+        android:id="@+id/menu_set_autostart"
+        android:title="@string/set_auto_start_app" />
+</menu>

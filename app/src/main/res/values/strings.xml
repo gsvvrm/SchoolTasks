@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Учебные задания</string>
+    <string name="job_subject_hint">Выбирите предмет из списка</string>
+    <string name="job_subject_label">Предмет</string>
+    <string name="job_content_hint">Введите задание</string>
+    <string name="job_content_label">Содержание задания</string>
+    <string name="job_solved_label">Выполнено</string>
+    <string name="job_add">Добавить задание</string>
+    <string name="subject_add">Добавить предмет</string>
+    <string name="subject_add_hint">Введите название предмета</string>
+    <string name="day_of_week_instruction">Отметте дни проведения предмета</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="new_job">Новое задание</string>
+    <string name="new_subject">Добавить предмет</string>
+
+    <string name="sm_monday">Пн </string>
+    <string name="sm_tuesday">Вт </string>
+    <string name="sm_wednesday">Ср </string>
+    <string name="sm_thursday">Чт </string>
+    <string name="sm_friday">Пт </string>
+    <string name="sm_saturday">Сб </string>
+    <string name="sm_sunday">Вс </string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="list_subjects">Мои Предметы</string>
+    <string name="list_jobs_all">Архив заданий</string>
+    <string name="set_auto_start_app">Вкл автозапуск</string>
+    <string name="solved">Задание выполнено</string>
+    <string name="no_jobs_title">Заданий нет! Проведите с пользой свободное время! </string>
+
+    <string name="channel_name">Задания на завтра</string>
+    <string name="channel_description">Колличество заданий на завтра</string>
+
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="is_job_done">Задание выполненно?</string>
+
+
+    <string name="notification_channel_name">Учебные задания</string>
+    <string name="notifi_new_jobs_title">Есть задания на завтра</string>
+    <string name="notifi_new_jobs_text">в колличестве: </string>
+
+
+    <string-array name="tabTitles">
+        <item>Завтра</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+        <item>ВС</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
